@@ -1,19 +1,22 @@
-# StroyBook
+# Little Panda Qiqi's Bedtime Routine
 
-## Little Panda Qiqi's Bedtime Scene Guides
+An interactive storybook app helping toddlers (ages 2-4) build positive bedtime habits through engaging touch-based interactions.
 
-### 🧸 Scene 1: "Tidy Up Time!"
+## Design Strengths
 
-Help Qiqi put away his toys before bed! Drag each toy into the bouncing toy chest. When everything is clean and tidy, Qiqi will be so happy!
+The app excels in intuitive gesture interactions (drag, swipe, tap) with instant positive feedback, creating achievement-driven learning. The soothing visual design uses soft nighttime colors and dreamlike elements, while the logical narrative progression mirrors real bedtime routines with exploratory moments that enhance replay value.
 
-### 🪥 Scene 2: "Sparkle Smile Time!"
+## Areas for Improvement
 
-Time to brush! Swipe back and forth to help Qiqi brush his teeth. Watch the bubbles grow and see his teeth sparkle bright and clean!
+The linear flow may become repetitive without branching paths or customization. The design needs clearer parent involvement guidelines, accessibility considerations for children with motor or visual impairments, defined failure states, and more detailed storybook selection options. Additional features like volume controls and parental screen time settings would strengthen the experience.
 
-### 🛁 Scene 3: "Bubble Fun Time!"
+## User Experience
 
-Bath time is here! Tap the bubble bottle to fill the tub with colorful bubbles. Can you make Qiqi's bath super bubbly?
+The app creates a calm, nurturing atmosphere through its companionship framing ("helping a friend" vs. "following orders"), soft color palette, and gentle animations. Achievement-oriented feedback builds confidence while reducing bedtime resistance, making children feel cozy and comforted—the ideal emotional tone for establishing positive sleep routines.
 
-### 📖 Scene 4: "Sleepy Story Time!"
+## Scene Guide
 
-Qiqi is cozy in bed and ready for a story! Swipe to turn the pages and enjoy the pictures. When the story ends, Qiqi will drift off to sleep!
+🧸 **Tidy Up** → Drag toys into the chest
+🪥 **Brush Teeth** → Swipe to create bubbles
+🛁 **Bubble Bath** → Tap bottle for colorful bubbles
+📖 **Story Time** → Swipe pages until Qiqi falls asleep
